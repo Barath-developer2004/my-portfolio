@@ -181,7 +181,7 @@ const Portfolio = () => {
             
             <div className="mb-6">
               <h1 className="text-6xl md:text-8xl font-bold mb-4 leading-tight">
-                <span className="inline-block bg-gradient-to-r from-blue-400 via-purple-500 to-blue-600 bg-clip-text text-transparent animate-gradient">
+                <span className="bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 text-transparent bg-clip-text">
                   Barath Y
                 </span>
               </h1>
@@ -219,18 +219,14 @@ const Portfolio = () => {
                 <div className="text-gray-400">Technologies</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-green-400">100+</div>
+                <div className="text-3xl font-bold text-green-400">200+</div>
                 <div className="text-gray-400">DSA Problems</div>
               </div>
             </div>
           </div>
         </div>
 
-        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
-          <div className="w-6 h-10 border-2 border-gray-400 rounded-full flex justify-center">
-            <div className="w-1 h-3 bg-gray-400 rounded-full mt-2 animate-pulse"></div>
-          </div>
-        </div>
+        
       </section>
 
       {/* Profile Section */}
@@ -541,7 +537,7 @@ const Portfolio = () => {
                 Get a comprehensive overview of my skills, experience, and projects in a professional format.
               </p>
               <a
-                href="/resume.pdf"
+                href="/Barath_resume.pdf"
                 download
                 className="px-10 py-4 bg-gradient-to-r from-blue-500 to-purple-600 rounded-xl font-semibold hover:from-blue-600 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 text-lg"
               >
