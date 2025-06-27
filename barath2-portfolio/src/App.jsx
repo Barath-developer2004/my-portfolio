@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
+import AnimatedSkillsBackground from './AnimatedSkillsBackground';
 
 const Portfolio = () => {
   const [isLoading, setIsLoading] = useState(true);
@@ -154,6 +155,7 @@ const Portfolio = () => {
         <div className="absolute inset-0 overflow-hidden">
           <div className="absolute inset-0 bg-gradient-to-br from-gray-900 via-blue-900/20 to-purple-900/20"></div>
           <div className="coding-background"></div>
+          <AnimatedSkillsBackground />
         </div>
         
         <div className="relative z-50 text-center max-w-5xl mx-auto px-4">
@@ -180,7 +182,7 @@ const Portfolio = () => {
             </div>
             
             <div className="mb-6">
-              <h1 className="text-6xl md:text-8xl font-bold mb-4 leading-tight">
+              <h1 className="text-6xl md:text-8xl font-bold mb-4 leading-tight text-hover-effect">
                 <span className="bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 text-transparent bg-clip-text">
                   Barath Y
                 </span>
@@ -233,7 +235,7 @@ const Portfolio = () => {
       <section id="profile" className="py-20 bg-gradient-to-b from-gray-900 to-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
+            <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent text-hover-effect">
               Developer Profile
             </h2>
             <p className="text-xl text-gray-400 max-w-3xl mx-auto">
@@ -337,7 +339,7 @@ const Portfolio = () => {
       <section id="experience" className="py-20 bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
+            <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent text-hover-effect">
               Experience & Journey
             </h2>
             <p className="text-xl text-gray-400 max-w-3xl mx-auto">
@@ -389,7 +391,7 @@ const Portfolio = () => {
       <section id="projects" className="py-20 bg-gradient-to-b from-gray-900 to-gray-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
+            <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent text-hover-effect">
               Featured Projects
             </h2>
             <p className="text-xl text-gray-400 max-w-3xl mx-auto">
@@ -478,7 +480,7 @@ const Portfolio = () => {
       <section id="contact" className="py-20 bg-gray-900">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
+            <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent text-hover-effect">
               Let's Connect
             </h2>
             <p className="text-xl text-gray-400 max-w-3xl mx-auto">
