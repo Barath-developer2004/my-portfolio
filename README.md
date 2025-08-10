@@ -1,17 +1,12 @@
 # My Portfolio
 
-![GitHub Stars](https://img.shields.io/github/stars/Barath-developer2004/my-portfolio?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Barath-developer2004/my-portfolio?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/Barath-developer2004/my-portfolio)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Tech Stack](https://img.shields.io/badge/tech-JavaScript%20|%20CSS%20|%20HTML-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub Stars](https://img.shields.io/github/stars/Barath-developer2004/my-portfolio?style=social) ![GitHub Forks](https://img.shields.io/github/forks/Barath-developer2004/my-portfolio?style=social) ![GitHub Issues](https://img.shields.io/github/issues/Barath-developer2004/my-portfolio) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Tech Stack](https://img.shields.io/badge/tech-JavaScript%20|%20CSS%20|%20HTML-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
 A modern, responsive portfolio website showcasing my projects, skills, and experience. Built with clean design principles and smooth animations to create an engaging user experience.
 
 ## 🚀 Demo
 
-🔗 **Live Demo**: [https://my-portfolio-ashy-iota-66.vercel.app/](https://my-portfolio-ashy-iota-66.vercel.app/)
+🔗 **Live Demo**: [https://barathdev.vercel.app](https://barathdev.vercel.app)
 
 Explore the live version to see the portfolio in action with all interactive features and animations.
 
@@ -38,6 +33,7 @@ Follow these steps to get the project running locally:
 ### Prerequisites
 
 Make sure you have the following installed:
+
 - [Node.js](https://nodejs.org/) (version 14 or higher)
 - [npm](https://www.npmjs.com/) (usually comes with Node.js)
 
@@ -64,7 +60,6 @@ Make sure you have the following installed:
    ```
 
 5. **Open your browser**
-   
    The application will be available at `http://localhost:3000`
 
 ## 🎯 Usage
@@ -105,8 +100,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Barath Y**
+
 - GitHub: [@Barath-developer2004](https://github.com/Barath-developer2004)
-- Portfolio: [https://my-portfolio-ashy-iota-66.vercel.app/](https://my-portfolio-ashy-iota-66.vercel.app/)
+- Portfolio: [https://barathdev.vercel.app](https://barathdev.vercel.app)
 
 ## ⭐ Show your support
 
@@ -117,5 +113,4 @@ Give a ⭐️ if this project helped you or if you found it interesting!
 Feel free to reach out if you have any questions or suggestions!
 
 ---
-
 *Built with ❤️ by Barath Y*
