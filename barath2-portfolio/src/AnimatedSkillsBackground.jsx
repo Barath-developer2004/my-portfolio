@@ -33,7 +33,7 @@ const getRandomIconStyle = (i) => {
 };
 
 const AnimatedSkillsBackground = () => (
-  <div className="animated-skills-bg pointer-events-none">
+  <div className="animated-skills-bg pointer-events-none opacity-40">
     {Array.from({ length: NUM_ICONS }).map((_, i) => (
       <span
         key={i}
